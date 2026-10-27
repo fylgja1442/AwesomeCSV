@@ -60,6 +60,7 @@ Here are some awesome tools for dealing with CSV:
 - [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 - [CSV to SQL](https://monapdx.github.io/Frontend-Widgets/csv-to-sql.html) - Upload a CSV file, set a table name, and generate SQL inserts instantly.
 - [SmoothCSV](https://smoothcsv.com) - A fast, powerful, and intuitive CSV editor for Mac, Windows, and Linux.
+- [Offline CSV Cleaner](https://fylgja.gumroad.com/l/offline-csv-cleaner?utm_source=awesome-csv-awesome-csv-readme-tools&utm_medium=awesome-csv&utm_campaign=launch&reference_id=plc-1a98f21a40bb) - Removes duplicate rows (match on chosen columns, ignore case and spaces) and writes a second CSV listing every removed row and why; one offline HTML file, paid.
 
 ### Repair or Validate CSV
 
